@@ -17,11 +17,10 @@ const App = () => {
   };
   return (
     <div id="main">
-      <p className={sam} >Newton School</p>
-      <button id='button' onClick={sam}>Change Style</button>
+      <p>Newton School</p>
+      <button id='button' onClick={handleClick}>Change Style</button>
     </div>
-  )
-}
-
+  );
+};
 
 export default App;
