@@ -17,8 +17,8 @@ const App = () => {
   };
   return (
     <div id="main">
-      <p className={} >Newton School</p>
-      <button id='button' onClick={}>Change Style</button>
+      <p className={sam} >Newton School</p>
+      <button id='button' onClick={sam}>Change Style</button>
     </div>
   )
 }
