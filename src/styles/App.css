@@ -1,15 +1,17 @@
 /* code here  */
 
 
-.p{
+#button{
   color:red;
   fontStyle:normal;
   fontSize: '30px' 
 }
 .redColor{
-
+  fontStyle:normal;
+  fontSize: '30px';
 }
 
 .blueColor{
-
+  fontStyle:italics;
+  fontSize: '30px';
 } 
