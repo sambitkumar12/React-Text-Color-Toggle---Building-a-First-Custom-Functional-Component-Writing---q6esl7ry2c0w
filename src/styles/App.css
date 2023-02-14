@@ -1,17 +1,10 @@
-/* code here  */
-
-
-#button{
-  color:red;
-  fontStyle:normal;
-  fontSize: '30px' 
-}
 .redColor{
-  fontStyle:normal;
-  fontSize: '30px';
+color:red;
+  font-size:30px;
 }
 
 .blueColor{
-  fontStyle:italics;
-  fontSize: '30px';
-} 
+color:blue;
+  font-style:italic;
+  font-size:30px;
+}
